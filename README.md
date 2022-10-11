@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Fitroh Izatul Malkiyah
+- 👀 I’m interested in Mobile Apps Development
+- 🎓 I’m currently studying at Amikom Purwokerto University 
