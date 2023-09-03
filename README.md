@@ -10,6 +10,9 @@
   <a href="https://hapi.dev/"><img align="left" alt="Figma" title="Figma" width="21px" src="https://img.icons8.com/color/48/figma--v1.png" /></a>
   <a href="https://nextjs.org/"><img align="left" alt="Tailwind" title="Tailwind CSS" width="21px" src="https://img.icons8.com/color/48/tailwindcss.png" /></a>
   <a href="https://nextjs.org/"><img align="left" alt="Kotlin" title="Kotlin" width="21px" src="https://img.icons8.com/color/48/kotlin.png" /></a>
+  <a href="https://www.codeigniter.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain-wordmark.svg" /></a>
+  <a href="https://www.canva.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" /></a>
+          
   <br>
   <br>
 
