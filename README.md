@@ -8,8 +8,9 @@
   <a href="https://reactjs.org/"><img align="left" alt="React" title="React" width="21px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" /></a>
   <a href="https://nodejs.org/"><img align="left" alt="Redux" title="Redux" width="21px" src="https://img.icons8.com/color/48/redux.png" /></a>
   <a href="https://hapi.dev/"><img align="left" alt="Figma" title="Figma" width="21px" src="https://img.icons8.com/color/48/figma--v1.png" /></a>
-  <a href="https://nextjs.org/"><img align="left" alt="Tailwind" title="Tailwind CSS" width="21px" src="https://img.icons8.com/color/48/tailwindcss.png" /></a>
-  <a href="https://nextjs.org/"><img align="left" alt="Kotlin" title="Kotlin" width="21px" src="https://img.icons8.com/color/48/kotlin.png" /></a>
+  <a href="https://tailwindcss.com"><img align="left" alt="Tailwind" title="Tailwind CSS" width="21px" src="https://img.icons8.com/color/48/tailwindcss.png" /></a>
+  <a href="https://kotlinlang.org"><img align="left" alt="Kotlin" title="Kotlin" width="21px" src="https://img.icons8.com/color/48/kotlin.png" /></a>
+  <a href="https://developer.android.com/jetpack/compose/"><img align="left" alt="Kotlin" title="Kotlin" width="21px" src="https://i.postimg.cc/9fJZfv2R/68747470733a2f2f7461627269732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032312f30362f6a657470.png" /></a>
   <a href="https://www.codeigniter.com/"><img align="left" alt="Codeigniter" title="Codeigniter" width="21px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain-wordmark.svg" /></a>
   <a href="https://www.canva.com/"><img align="left" alt="Canva" title="Canva" width="21px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" /></a>
           
